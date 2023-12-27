@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photo-editop-react/static/css/main.a4cfefbd.css",
+    "main.js": "/photo-editop-react/static/js/main.6836f384.js",
+    "index.html": "/photo-editop-react/index.html",
+    "main.a4cfefbd.css.map": "/photo-editop-react/static/css/main.a4cfefbd.css.map",
+    "main.6836f384.js.map": "/photo-editop-react/static/js/main.6836f384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cfefbd.css",
+    "static/js/main.6836f384.js"
+  ]
+}
